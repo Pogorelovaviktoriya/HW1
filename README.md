@@ -7,6 +7,6 @@
 
 ### Contacts
 
-**Email** Pogorelovavika2001@gmail.com
+**Email:** Pogorelovavika2001@gmail.com
 
 [VK](https://m.vk.com/id179668190)
