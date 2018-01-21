@@ -1,7 +1,7 @@
 ### About me
 - I am **Pogorelova Viktoria.** I am 17 years old. I am a student of the *Higher School of Economics* in the field of Linguistics. I am a first-year student in group 171-2.
 
-- My native country is Russia. I was born in Moscow as well as my parents.
+- My native country is **Russia.** I was born in Moscow as well as my parents.
 
 
 - As for my hobbies, I am fond of dancing. I have been dancing since I was three years old. Also I want to learn and to be able to understand Digital Literacy.
@@ -24,7 +24,7 @@
 
 
 ### Contacts
-- On social networks you can find me using these links.
+On social networks you can find me using these links:
 
 
 
