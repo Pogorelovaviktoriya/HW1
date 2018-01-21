@@ -1,6 +1,7 @@
 ### About me
 - I am **Pogorelova Viktoria.** I am 17 years old. I am a student of the *Higher School of Economics* in the field of Linguistics. I am a first-year student in group 171-2.
 
+
 - My native country is **Russia.** I was born in Moscow as well as my parents.
 
 
@@ -10,14 +11,12 @@
 - In my spare time I prefer to go to the theater or to the musical.
 
 
-
-
-
-
 ![My photo](https://pp.userapi.com/c837628/v837628190/35524/-E9XLWbmkLs.jpg)
 
 
-
+### Languages
+- *English*
+- *Spanish*
 
 
 
