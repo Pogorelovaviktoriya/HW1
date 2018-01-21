@@ -40,4 +40,4 @@ On social networks you can find me using these links:
 [VK](https://m.vk.com/id179668190)
 
 
-*My telephone number:* +7 (962) 981-43-64
+- *My telephone number:* +7 (962) 981-43-64
