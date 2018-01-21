@@ -9,7 +9,7 @@
 - As for my hobbies, I am fond of dancing. I have been dancing since I was three years old. Also I want to learn and to be able to understand Digital Literacy.
 
 
-- In my spare time I prefer to go to the theater or to the musical.
+- In my spare time I prefer to go to the *theater* or to the *musical.*
 
 
 ![My photo](https://pp.userapi.com/c837628/v837628190/35524/-E9XLWbmkLs.jpg)
