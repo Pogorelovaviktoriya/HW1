@@ -15,6 +15,7 @@
 
 
 ### Languages
+- *Russian*
 - *English*
 - *Spanish*
 
