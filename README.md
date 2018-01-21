@@ -34,9 +34,10 @@ Here you can see my curriculum on Mondays:
 On social networks you can find me using these links:
 
 
-
 *Email:* Pogorelovavika2001@gmail.com
 
 
-
 [VK](https://m.vk.com/id179668190)
+
+
+*My telephone number: 8-962-981-43-64
