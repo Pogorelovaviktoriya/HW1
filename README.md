@@ -5,6 +5,16 @@
 - My native country is **Russia.** I was born in Moscow as well as my parents.
 
 
+### Studies
+Here you can see my curriculum on Mondays:
+
+| Disciplines      | Time         |
+| ---------------- |:------------:|
+| Digital literacy | 9:00-10:20   |
+| *Seminar*        |              |
+| Digital literacy | 12:10-13:30  |
+| *Lecture*        |              |
+
 ### Hobbies and free time
 - As for my hobbies, I am fond of dancing. I have been dancing since I was three years old. Also I want to learn and to be able to understand Digital Literacy.
 
@@ -19,9 +29,6 @@
 - *Russian*
 - *English*
 - *Spanish*
-
-
-
 
 
 ### Contacts
