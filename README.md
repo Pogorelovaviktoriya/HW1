@@ -8,11 +8,11 @@
 ### Studies
 Here you can see my curriculum on Mondays:
 
-| Disciplines                | Time         |
-| -------------------------- |:------------:|
-| Digital literacy *seminar* | 9:00-10:20   |        
-| Digital literacy *lecture* | 12:10-13:30  |
-|                            |              |
+| Disciplines                | Time         | Classroom |
+| -------------------------- |:------------:| ---------:|
+| Digital literacy *seminar* | 9:00-10:20   |  324      |
+| Digital literacy *lecture* | 12:10-13:30  |  205      |
+|                            |              |           |
 
 ### Hobbies and free time
 - As for my hobbies, I am fond of dancing. I have been dancing since I was three years old. Also I want to learn and to be able to understand Digital Literacy.
